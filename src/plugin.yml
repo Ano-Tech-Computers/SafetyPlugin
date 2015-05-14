@@ -1,9 +1,0 @@
-name: SafetyPlugin
-main: no.atc.floyd.bukkit.safetyplugin.SafetyPlugin
-version: 0.11
-website: http://minecraft.atc.no/plugins
-author: FloydATC
-description: >
-        Allow lava and water buckets at z<16
-commands:
-
